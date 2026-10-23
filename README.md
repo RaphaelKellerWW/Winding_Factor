@@ -19,3 +19,7 @@ id = data.Meas.PE_Id_meas_avg{1, 1};
 [calculate_winding_factor.m](Resources/calculate_winding_factor.m) lädt den
 kompakten Messdatenexport von Set 2. Die Auswertung für Set 3 steht noch aus;
 dessen Rohdaten sind bereits vollständig gruppiert verfügbar.
+
+Die Beziehung zwischen MeasEval, ParamGUI und VICE steht als kompakte
+[Mapping-Referenz](Resources/Mapping/README.md) zur Verfügung. Die
+vollständige ParamGUI bleibt lokal und ist vom Git ausgeschlossen.

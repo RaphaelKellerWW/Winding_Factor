@@ -1,6 +1,7 @@
-# Only the datasets from the local reference collection belong to this exchange.
+# Shared datasets, analysis entry points and field mapping.
 /Resources/*
 !/Resources/DataSets/
+!/Resources/Mapping/
 !/Resources/extract_meas_from_fluxeval.m
 !/Resources/calculate_winding_factor.m
 
@@ -12,3 +13,6 @@
 
 *.asv
 __pycache__/
+
+# The ParamGUI implementation stays local; its field contract is in Mapping/.
+/Resources/GUI_VICE-ParamKit_R3310/
