@@ -1,0 +1,14 @@
+# Only the datasets from the local reference collection belong to this exchange.
+/Resources/*
+!/Resources/DataSets/
+!/Resources/extract_meas_from_fluxeval.m
+!/Resources/calculate_winding_factor.m
+
+# Full GUI evaluations stay local; compact Meas extracts are shared.
+/Resources/DataSets/**/FluxEval/
+# Also catch evaluations saved directly in a set by the GUI.
+/Resources/DataSets/Set*/*FluxEval*.mat
+/Resources/DataSets/Set*/eval_flux_*.mat
+
+*.asv
+__pycache__/

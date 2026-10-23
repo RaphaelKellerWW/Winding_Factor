@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.mat binary
+*.m text
+*.md text
+*.json text

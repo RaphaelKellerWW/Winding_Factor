@@ -1,0 +1,60 @@
+{
+  "algorithm": "sha256",
+  "sources": [
+    {
+      "source": "Set1/FluxEval/Matlab_200_201_202_FluxEval.mat",
+      "bytes": 683264426,
+      "sha256": "2895cddfa1b62c0a056838f6703770cbad383e0522422c47bdbb176bbaea7704"
+    },
+    {
+      "source": "Set1/FluxEval/Matlab_200_FluxEval.mat",
+      "bytes": 788627555,
+      "sha256": "2de2efb223c7f7463df802bd59eb3b18d00aed3bf8bc72082aca6e7139cf8c41"
+    },
+    {
+      "source": "Set1/raw/Matlab_200.mat",
+      "bytes": 24839573,
+      "sha256": "db22ce03ae68b608aceb88c8343da6ae4612767746f2a25cabfa9f18c357f210"
+    },
+    {
+      "source": "Set1/raw/Matlab_201.mat",
+      "bytes": 2021472,
+      "sha256": "1eaa1c5fa407567692d870b0a597e75685462f5a2afa2b5c02715bb1603c8373"
+    },
+    {
+      "source": "Set1/raw/Matlab_202.mat",
+      "bytes": 2660480,
+      "sha256": "3d5e9df716f66de81d3f334aa4df30563cdd8795a056cf0c58aa8272f2156a64"
+    },
+    {
+      "source": "Set2/FluxEval/eval_flux_eesm_excitation_0A_to_40A.mat",
+      "bytes": 729596376,
+      "sha256": "e119a79860a5083ad2868c6d874613903696bd4bcb7108baca2e6decb18b360c"
+    },
+    {
+      "source": "Set2/FluxEval/eval_flux_eesm_excitation_0A_to_40A_10Vres.mat",
+      "bytes": 730005985,
+      "sha256": "f87a0e238f31cf4446f25543da4fa8dd4657a6fa0384ef9c853154bd5d4d1056"
+    },
+    {
+      "source": "Set2/FluxEval/eval_flux_eesm_excitation_2A_to_40A.mat",
+      "bytes": 684197009,
+      "sha256": "bcd167198249461732c7ce98c0f98ee01fc3668edc7af99d73ee0263e26fcb98"
+    },
+    {
+      "source": "Set2/raw/flux_eesm_excitation_0A.mat",
+      "bytes": 4255268,
+      "sha256": "9e01f0803bf086162dd12aee7745be91f4cbc960250404d4cbcff3e2aeff4e1b"
+    },
+    {
+      "source": "Set2/raw/flux_eesm_excitation_2A_to_40A.mat",
+      "bytes": 25479703,
+      "sha256": "9f266d7db0028027b648ea16a69ca3b4de97dc8937e49c8f961a4ce9ec3bba53"
+    },
+    {
+      "source": "Set3/raw/flux_eesm_excitation_3A_to_30A.mat",
+      "bytes": 30530131,
+      "sha256": "6fe41c44a3b1282d572c730ad1c2adc1712cd8220a26850af94f1ff297bf163b"
+    }
+  ]
+}
