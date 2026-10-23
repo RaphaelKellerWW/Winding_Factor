@@ -23,3 +23,6 @@ dessen Rohdaten sind bereits vollständig gruppiert verfügbar.
 Die Beziehung zwischen MeasEval, ParamGUI und VICE steht als kompakte
 [Mapping-Referenz](Resources/Mapping/README.md) zur Verfügung. Die
 vollständige ParamGUI bleibt lokal und ist vom Git ausgeschlossen.
+
+Die frühere Untersuchung ist in einer [Zusammenfassung](Resources/investigation/README.md)
+konsolidiert: Reihenfolgefehler, Vergleichswerte und offene Fragen.

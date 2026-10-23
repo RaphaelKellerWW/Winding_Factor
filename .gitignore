@@ -2,6 +2,9 @@
 /Resources/*
 !/Resources/DataSets/
 !/Resources/Mapping/
+!/Resources/investigation/
+/Resources/investigation/*
+!/Resources/investigation/README.md
 !/Resources/extract_meas_from_fluxeval.m
 !/Resources/calculate_winding_factor.m
 
